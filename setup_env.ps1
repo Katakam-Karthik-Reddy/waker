@@ -1,0 +1,1 @@
+$env:CMAKE_GENERATOR = "Ninja"
